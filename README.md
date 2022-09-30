@@ -11,7 +11,7 @@ Bấm vào [đây](https://github.com/danghai193/Listening_Checker/releases/tag/
 ### Yêu cầu trước khi cài đặt
 1. [Cài đặt python trên máy tính](https://www.python.org/downloads/)
 2. Cài các thư viện cần thiết
-3. Chuyển file words_alpha.txt vào C:\Users\<tên người dùng>
+3. Chuyển file words_alpha.txt vào C:\Users\\<tên người dùng>
 
 ### Cài các thư viện cần thiết
 Để cài các thư viện cần thiết, bạn cần bấm tổ hợp phím Windows + R để mở hộp thoại Run, sau đó gõ "cmd" để mở Command Prompt.
