@@ -1,6 +1,6 @@
 # Listening-Checker
 
-Chào mừng bạn đến với TextToSpeech-Checker, một dự án nhỏ nhỏ xinh xinh giúp ta kiểm tra khả năng lắng nghe từ của bản thân. 
+Chào mừng bạn đến với Listening-Checker, một dự án nhỏ nhỏ xinh xinh giúp ta kiểm tra khả năng lắng nghe từ của bản thân. 
 Dự án đầu tay trên github của danghai193 :3
 
 Hệ điều hành gợi ý sử dụng: Windows 10, Windows 11
