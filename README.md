@@ -1,4 +1,4 @@
-# TextToSpeech-Checker
+# Listening-Checker
 
 Chào mừng bạn đến với TextToSpeech-Checker, một dự án nhỏ nhỏ xinh xinh giúp ta kiểm tra khả năng lắng nghe từ của bản thân. 
 Dự án đầu tay trên github của danghai193 :3
