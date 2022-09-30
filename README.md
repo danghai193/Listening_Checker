@@ -1,5 +1,7 @@
 # Listening-Checker
 
+![Banner](https://images-ext-2.discordapp.net/external/lVUEH0KjNL8sqTzWyZvnfd119JJkgGz45_pEZbrasTo/https/repository-images.githubusercontent.com/543575341/e5f46329-1ea6-4f9e-bd0d-389abdf0f70d?width=1259&height=629)
+
 Chào mừng bạn đến với Listening-Checker, một dự án nhỏ nhỏ xinh xinh giúp ta kiểm tra khả năng lắng nghe từ của bản thân. 
 Dự án đầu tay trên github của danghai193 :3
 
