@@ -4,7 +4,6 @@ from playsound import playsound
 from os import remove, path, getcwd, chdir
 from random import randint
 from linecache import getline
-from shutil import copyfile
 
 #Check để thay prompt lần đầu hoặc lần sau
 firstTime = 0
@@ -18,8 +17,6 @@ PROMPT5 = '\n'+ 'CHƯA CHÍNH XÁC'.center(40, '-')
 # Lấy vị trí file user
 USER_FOLDER = path.expanduser('~') + '\wordfile.mp3'
 
-print(getcwd())
-copyfile('words_alpha.txt', path.expanduser('~'))
 chdir(path.expanduser('~'))
 print(getcwd())
 
