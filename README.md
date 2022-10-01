@@ -8,7 +8,7 @@ Dự án đầu tay trên github của danghai193 :3
 Hệ điều hành gợi ý sử dụng: Windows 10, Windows 11
 
 ### Tải xuống:
-Bấm vào [đây](https://github.com/danghai193/Listening_Checker/releases/tag/release)
+Bấm vào [đây](https://github.com/danghai193/Listening_Checker/releases)
 
 ### Yêu cầu trước khi cài đặt
 1. [Cài đặt python trên máy tính](https://www.python.org/downloads/)
